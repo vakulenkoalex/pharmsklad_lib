@@ -15,7 +15,11 @@
 Функция ПроверитьСтроку(Знач Строка, Знач Фасет) Экспорт
 	
 	Пакет = 
-		"<Model xmlns=""http://v8.1c.ru/8.1/xdto"" xmlns:xs=""http://www.w3.org/2001/XMLSchema"" xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:type=""Model"">
+		"<Model 
+		|xmlns=""http://v8.1c.ru/8.1/xdto"" 
+		|xmlns:xs=""http://www.w3.org/2001/XMLSchema"" 
+		|xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" 
+		|xsi:type=""Model"">
 		|<package targetNamespace=""sample-my-package"">
 		|<valueType name=""testtypes"" base=""xs:string"">
 		|<pattern>%1</pattern>
