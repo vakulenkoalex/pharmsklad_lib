@@ -148,7 +148,9 @@
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
+			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
+			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<DefinedType>фмSGTIN</DefinedType>
 			<DefinedType>фмИдентификаторСтроки</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
