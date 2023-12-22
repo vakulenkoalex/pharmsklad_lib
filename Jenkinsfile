@@ -14,5 +14,6 @@ function.setPath1C("C:\\Program Files (x86)\\1cv8\\8.3.12.1714")
 function.addTest('CodeAnalysisFull')
 function.addTest('SonarQube')
 function.addTest('PlatformCheck')
+function.addTest('UnitTest')
 
 function.startBuild()
