@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Вакуленко Алексей</Vendor>
-			<Version>1.1</Version>
+			<Version>1.2</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -135,6 +135,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>фмПараметры</Subsystem>
 			<StyleItem>фмФонВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
 			<CommonModule>ОбщегоНазначения</CommonModule>
@@ -148,12 +149,17 @@
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
+			<CommonModule>фмПараметрыВызовСервера</CommonModule>
+			<CommonModule>фмПараметрыКлиентСервер</CommonModule>
+			<CommonModule>фмПараметрыКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<DefinedType>фмSGTIN</DefinedType>
+			<DefinedType>фмЗначениеПараметра</DefinedType>
 			<DefinedType>фмИдентификаторСтроки</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
+			<Catalog>фмПараметры</Catalog>
 			<DataProcessor>фмЗапускЗаданий</DataProcessor>
 		</ChildObjects>
 	</Configuration>
