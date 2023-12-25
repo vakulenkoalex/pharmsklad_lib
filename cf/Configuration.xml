@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Вакуленко Алексей</Vendor>
-			<Version>0.2</Version>
+			<Version>1.1</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -148,7 +148,9 @@
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
+			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
+			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<DefinedType>фмSGTIN</DefinedType>
 			<DefinedType>фмИдентификаторСтроки</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
