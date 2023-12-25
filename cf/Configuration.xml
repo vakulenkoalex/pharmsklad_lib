@@ -135,8 +135,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>фмПараметрыПрограммы</Subsystem>
 			<StyleItem>фмФонВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
+			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиент</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
@@ -148,13 +150,18 @@
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
+			<CommonModule>фмПараметрыВызовСервера</CommonModule>
+			<CommonModule>фмПараметрыКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<DefinedType>фмSGTIN</DefinedType>
+			<DefinedType>фмЗначениеПараметра</DefinedType>
 			<DefinedType>фмИдентификаторСтроки</DefinedType>
+			<DefinedType>фмОбластьПримененияПараметра</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
 			<DataProcessor>фмЗапускЗаданий</DataProcessor>
+			<InformationRegister>фмПараметры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
