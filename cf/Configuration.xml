@@ -168,6 +168,7 @@
 			<DefinedType>фмИдентификаторСтроки</DefinedType>
 			<DefinedType>фмОбластьПримененияПараметра</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
+			<DataProcessor>фмHTTPСоединениеСЛогированием</DataProcessor>
 			<DataProcessor>фмЗапускЗаданий</DataProcessor>
 			<DataProcessor>фмЛоггер</DataProcessor>
 			<InformationRegister>фмПараметры</InformationRegister>
