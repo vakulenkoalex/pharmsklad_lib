@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Вакуленко Алексей</Vendor>
-			<Version>1.1</Version>
+			<Version>1.2</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -135,8 +135,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>фмПараметрыПрограммы</Subsystem>
 			<StyleItem>фмФонВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
+			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиент</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
@@ -145,16 +147,24 @@
 			<CommonModule>фмДатаВремяКлиентСервер</CommonModule>
 			<CommonModule>фмИнтеграцияКлиентСервер</CommonModule>
 			<CommonModule>фмКодыСостоянияHTTPКлиентСерверПовтИсп</CommonModule>
+			<CommonModule>фмКонструкторы</CommonModule>
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
+			<CommonModule>фмПараметрыВызовСервера</CommonModule>
+			<CommonModule>фмПараметрыКлиентСерверПовтИсп</CommonModule>
+			<CommonModule>фмПараметрыПереопределяемый</CommonModule>
+			<CommonModule>фмПараметрыПовтИсп</CommonModule>
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<DefinedType>фмSGTIN</DefinedType>
+			<DefinedType>фмЗначениеПараметра</DefinedType>
 			<DefinedType>фмИдентификаторСтроки</DefinedType>
+			<DefinedType>фмОбластьПримененияПараметра</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
 			<DataProcessor>фмЗапускЗаданий</DataProcessor>
+			<InformationRegister>фмПараметры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
