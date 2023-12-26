@@ -156,6 +156,7 @@
 			<CommonModule>фмЛоггерПовтИсп</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
+			<CommonModule>фмОбработчикЗапросовСервиса</CommonModule>
 			<CommonModule>фмПараметрыВызовСервера</CommonModule>
 			<CommonModule>фмПараметрыКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмПараметрыПереопределяемый</CommonModule>
