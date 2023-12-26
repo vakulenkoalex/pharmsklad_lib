@@ -136,6 +136,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>фмПараметрыПрограммы</Subsystem>
+			<Subsystem>фмЛогирование</Subsystem>
 			<StyleItem>фмФонВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
 			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>
@@ -149,6 +150,10 @@
 			<CommonModule>фмКодыСостоянияHTTPКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмКонструкторы</CommonModule>
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
+			<CommonModule>фмЛоггерВызовСервера</CommonModule>
+			<CommonModule>фмЛоггерКлиент</CommonModule>
+			<CommonModule>фмЛоггерПереопределяемый</CommonModule>
+			<CommonModule>фмЛоггерПовтИсп</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
 			<CommonModule>фмПараметрыВызовСервера</CommonModule>
@@ -164,6 +169,7 @@
 			<DefinedType>фмОбластьПримененияПараметра</DefinedType>
 			<DefinedType>фмШтрихкод</DefinedType>
 			<DataProcessor>фмЗапускЗаданий</DataProcessor>
+			<DataProcessor>фмЛоггер</DataProcessor>
 			<InformationRegister>фмПараметры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
