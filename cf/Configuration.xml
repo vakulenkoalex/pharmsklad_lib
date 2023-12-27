@@ -164,11 +164,8 @@
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
-			<DefinedType>фмSGTIN</DefinedType>
 			<DefinedType>фмЗначениеПараметра</DefinedType>
-			<DefinedType>фмИдентификаторСтроки</DefinedType>
 			<DefinedType>фмОбластьПримененияПараметра</DefinedType>
-			<DefinedType>фмШтрихкод</DefinedType>
 			<DataProcessor>фмHTTPСоединениеСЛогированием</DataProcessor>
 			<DataProcessor>фмЗапускЗаданий</DataProcessor>
 			<DataProcessor>фмЛоггер</DataProcessor>
