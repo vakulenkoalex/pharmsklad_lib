@@ -1,28 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<DefinedType uuid="ecf79eda-a4f4-4aa2-9b65-0ff23edf7734">
+	<DataProcessor uuid="a3fc25b4-b9d7-4bf0-9172-b164c5a31ae1">
 		<InternalInfo>
-			<xr:GeneratedType name="DefinedType.фмSGTIN" category="DefinedType">
-				<xr:TypeId>1b43a4b0-08f0-4099-a46c-b5cac851384a</xr:TypeId>
-				<xr:ValueId>c6327629-c0da-45f0-98b4-a95225cb9454</xr:ValueId>
+			<xr:GeneratedType name="DataProcessorObject.фмЗапускЗаданий" category="Object">
+				<xr:TypeId>6291993f-dd72-4bdf-9504-2820981fb969</xr:TypeId>
+				<xr:ValueId>66a4bac0-4b0f-4fa1-8011-c6246c7e5d37</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.фмЗапускЗаданий" category="Manager">
+				<xr:TypeId>20bc87d8-04e7-406a-bf0e-c9fc040e3bbe</xr:TypeId>
+				<xr:ValueId>7caaa766-c390-4e82-8102-8548e460bc31</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>фмSGTIN</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>SGTIN</v8:content>
-				</v8:item>
-			</Synonym>
-			<Comment/>
-			<Type>
-				<v8:Type>xs:string</v8:Type>
-				<v8:StringQualifiers>
-					<v8:Length>27</v8:Length>
-					<v8:AllowedLength>Variable</v8:AllowedLength>
-				</v8:StringQualifiers>
-			</Type>
+			<Name>фмЗапускЗаданий</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
 		</Properties>
-	</DefinedType>
+		<ChildObjects/>
+	</DataProcessor>
 </MetaDataObject>
