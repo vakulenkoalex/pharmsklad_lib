@@ -15,5 +15,6 @@ function.addTest('CodeAnalysisFull')
 function.addTest('SonarQube')
 function.addTest('PlatformCheck')
 function.addTest('UnitTest')
+function.addTest('YAxunit')
 
 function.startBuild()
