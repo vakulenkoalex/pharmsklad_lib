@@ -137,7 +137,7 @@
 			<Language>Русский</Language>
 			<Subsystem>фмЛогирование</Subsystem>
 			<Subsystem>фмПараметрыПрограммы</Subsystem>
-			<StyleItem>фмФонВыделения</StyleItem>
+			<StyleItem>фмЦветФонаВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
 			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>
 			<CommonModule>ОбщегоНазначения</CommonModule>
