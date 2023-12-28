@@ -1,56 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Configuration uuid="cb7262cc-275b-4e46-84a6-7676e8a56426">
+	<Configuration uuid="3635c070-c795-453c-a5b9-4130206d2033">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>8511a5e4-63eb-4522-9eb2-e9e012133f40</xr:ObjectId>
+				<xr:ObjectId>1239b463-7584-47f4-929d-4746055a9650</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>03604e07-bd18-42c3-a234-a042c3740612</xr:ObjectId>
+				<xr:ObjectId>f8430537-c194-4393-aadd-37a0ba78a043</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>05f28f76-56f2-4b2f-a548-7939e9663ee3</xr:ObjectId>
+				<xr:ObjectId>b139ff80-fae2-4c60-8f59-c776ae76a6ab</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>cb702459-daf3-4ea3-8945-54325d623a76</xr:ObjectId>
+				<xr:ObjectId>9502c934-7dc6-4707-9957-dac9fe814a2c</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>f9938212-b376-4ee3-bb0d-3a06f1fa74a5</xr:ObjectId>
+				<xr:ObjectId>58cfda4e-76e9-414c-acae-3774dc67b46b</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>e6feeb2b-a982-4407-a4d6-466ee38b4ec4</xr:ObjectId>
+				<xr:ObjectId>8a2bf8ad-8633-4a29-b104-a6407c0d24d5</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>фмЗапускЗаданий</Name>
+			<Name>фмОбработчикЗапросовСервиса</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Фм запуск заданий</v8:content>
+					<v8:content>Фм обработчик запросов сервиса</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<NamePrefix>фмз_</NamePrefix>
+			<NamePrefix>фмо_</NamePrefix>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_12</ConfigurationExtensionCompatibilityMode>
 			<UsePurposes>
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Фармсклад</Vendor>
-			<Version>0.2</Version>
+			<Version>0.1</Version>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonModule>фмЗапускЗаданий</CommonModule>
-			<DataProcessor>фмЗапускЗаданий</DataProcessor>
+			<CommonModule>ОбработчикЗапросовСервиса</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
