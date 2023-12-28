@@ -6,17 +6,17 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>98920ca4-ae27-468f-8a8f-e4669500678c</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.Тест_Логгер" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.Тест_фмЛоггер" category="Object">
 				<xr:TypeId>a9adcd57-acaa-40cc-bad3-27756a2f9c6e</xr:TypeId>
 				<xr:ValueId>304744a8-e6c9-4800-8d44-5ac24b98c6ec</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Тест_Логгер</Name>
+			<Name>Тест_фмЛоггер</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тест логгер</v8:content>
+					<v8:content>Тест фм логгер</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
