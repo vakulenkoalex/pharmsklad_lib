@@ -40,7 +40,7 @@
 		<query>ВЫБРАТЬ
 	1 КАК Поле1,
 	2 КАК Поле2,
-	&amp;Параметр КАК Поле3
+	&amp;Параметр1 КАК Поле3
 {ВЫБРАТЬ
 	Поле1,
 	Поле2,
@@ -48,20 +48,19 @@
 {ГДЕ
 	(1) КАК Поле1,
 	(2) КАК Поле2,
-	(&amp;Параметр) КАК Поле3}</query>
+	(&amp;Параметр1) КАК Поле3}</query>
 		<autoFillFields>false</autoFillFields>
 	</dataSet>
 	<parameter>
-		<name>Параметр</name>
+		<name>Параметр1</name>
 		<title xsi:type="v8:LocalStringType">
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>Параметр</v8:content>
+				<v8:content>Параметр1</v8:content>
 			</v8:item>
 		</title>
 		<value xsi:nil="true"/>
-		<useRestriction>false</useRestriction>
-		<availableAsField>false</availableAsField>
+		<useRestriction>true</useRestriction>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Первый</dcsset:name>
@@ -77,13 +76,6 @@
 					<dcsset:field>Поле1</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
-			<dcsset:dataParameters>
-				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-					<dcscor:use>false</dcscor:use>
-					<dcscor:parameter>Параметр</dcscor:parameter>
-					<dcscor:value xsi:nil="true"/>
-				</dcscor:item>
-			</dcsset:dataParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:order>
 					<dcsset:item xsi:type="dcsset:OrderItemAuto"/>
