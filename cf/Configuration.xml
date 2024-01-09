@@ -164,6 +164,7 @@
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
+			<CommonModule>фмФормированиеОтчетовКлиентСервер</CommonModule>
 			<DefinedType>фмЗначениеПараметра</DefinedType>
 			<DefinedType>фмОбластьПримененияПараметра</DefinedType>
 			<DataProcessor>фмHTTPСоединениеСЛогированием</DataProcessor>
