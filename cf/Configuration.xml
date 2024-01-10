@@ -140,6 +140,7 @@
 			<StyleItem>фмЦветФонаВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
 			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>
+			<CommonTemplate>фмОписаниеПараметров</CommonTemplate>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиент</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
