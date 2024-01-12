@@ -234,6 +234,7 @@
 			</Dimension>
 			<Form>ФормаЗаписи</Form>
 			<Form>ФормаСписка</Form>
+			<Form>ФормаСправка</Form>
 		</ChildObjects>
 	</InformationRegister>
 </MetaDataObject>

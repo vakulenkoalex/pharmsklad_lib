@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Вакуленко Алексей</Vendor>
-			<Version>1.7</Version>
+			<Version>1.8</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -140,6 +140,7 @@
 			<StyleItem>фмЦветФонаВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
 			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>
+			<CommonTemplate>фмОписаниеПараметров</CommonTemplate>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиент</CommonModule>
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
