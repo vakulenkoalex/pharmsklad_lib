@@ -135,8 +135,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>фмЛогирование</Subsystem>
-			<Subsystem>фмПараметрыПрограммы</Subsystem>
+			<Subsystem>фмФармскладБиблиотека</Subsystem>
 			<StyleItem>фмЦветФонаВыделения</StyleItem>
 			<StyleItem>фмЦветФонаЧередования</StyleItem>
 			<SessionParameter>фмТекущаяОбластьПримененияПараметра</SessionParameter>

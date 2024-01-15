@@ -10,7 +10,7 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<IncludeInCommandInterface>false</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture/>
@@ -23,6 +23,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.фмПараметры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмПараметрыПереопределяемый</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмПараметрыПовтИсп</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.фмОписаниеПараметров</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
