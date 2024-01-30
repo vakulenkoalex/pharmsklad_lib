@@ -7,6 +7,8 @@
 		<ChildItems>
 			<Button name="ФормаПоказатьСправку" id="28">
 				<Type>CommandBarButton</Type>
+				<Representation>PictureAndText</Representation>
+				<OnlyInAllActions>true</OnlyInAllActions>
 				<CommandName>Form.Command.ПоказатьСправку</CommandName>
 				<ExtendedTooltip name="ФормаПоказатьСправкуРасширеннаяПодсказка" id="29"/>
 			</Button>
