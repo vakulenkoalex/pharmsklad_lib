@@ -163,6 +163,7 @@
 			<CommonModule>фмПараметрыПовтИсп</CommonModule>
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
+			<CommonModule>фмСериализацияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<CommonModule>фмФормированиеОтчетовКлиентСервер</CommonModule>
 			<DefinedType>фмЗначениеПараметра</DefinedType>
