@@ -30,6 +30,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.фмЦветФонаВыделения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem.фмЦветФонаЧередования</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.фмЗапускЗаданий</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмСериализацияКлиентСервер</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

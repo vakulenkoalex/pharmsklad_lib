@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Вакуленко Алексей</Vendor>
-			<Version>1.11</Version>
+			<Version>1.12</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -163,6 +163,7 @@
 			<CommonModule>фмПараметрыПовтИсп</CommonModule>
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
+			<CommonModule>фмСериализацияКлиентСервер</CommonModule>
 			<CommonModule>фмФормированиеОтчетов</CommonModule>
 			<CommonModule>фмФормированиеОтчетовКлиентСервер</CommonModule>
 			<DefinedType>фмЗначениеПараметра</DefinedType>
