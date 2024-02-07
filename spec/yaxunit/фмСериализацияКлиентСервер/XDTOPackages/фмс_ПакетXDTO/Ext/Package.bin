@@ -5,4 +5,7 @@
 		<property name="ЧислоDecimal" type="xs:decimal"/>
 		<property xmlns:d3p1="http://www.sample-package.org" name="ЧислоСложныйТип" type="d3p1:СложныйТип"/>
 	</objectType>
+	<objectType name="НовыйОбъект">
+		<property xmlns:d3p1="http://www.sample-package.org" name="ЧислоСложныйТип" type="d3p1:СложныйТип"/>
+	</objectType>
 </package>
