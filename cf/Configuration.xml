@@ -157,6 +157,8 @@
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>
 			<CommonModule>фмОбработкаСообщенийПользователю</CommonModule>
 			<CommonModule>фмОбработчикЗапросовСервиса</CommonModule>
+			<CommonModule>фмОжидания</CommonModule>
+			<CommonModule>фмОжиданияКлиентСервер</CommonModule>
 			<CommonModule>фмПараметрыВызовСервера</CommonModule>
 			<CommonModule>фмПараметрыКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмПараметрыПереопределяемый</CommonModule>
