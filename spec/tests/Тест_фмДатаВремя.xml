@@ -6,17 +6,17 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>938245b7-6cbf-4f70-9619-ea4a667d0790</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.Тест_фмДатаВремяКлиентСервер" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.Тест_фмДатаВремя" category="Object">
 				<xr:TypeId>ea032f77-65f0-47be-8a58-72d4123b3996</xr:TypeId>
 				<xr:ValueId>025be702-0bab-43b3-8a0b-9ce5ab8defab</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Тест_фмДатаВремяКлиентСервер</Name>
+			<Name>Тест_фмДатаВремя</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тест фм дата время клиент сервер</v8:content>
+					<v8:content>Тест фм дата время</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
