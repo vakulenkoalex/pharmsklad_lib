@@ -145,6 +145,7 @@
 			<CommonModule>ОбщегоНазначенияКлиентСервер</CommonModule>
 			<CommonModule>ОбщегоНазначенияСлужебныйКлиентСервер</CommonModule>
 			<CommonModule>СтроковыеФункцииКлиентСервер</CommonModule>
+			<CommonModule>фмДатаВремя</CommonModule>
 			<CommonModule>фмДатаВремяКлиентСервер</CommonModule>
 			<CommonModule>фмИнтеграцияКлиентСервер</CommonModule>
 			<CommonModule>фмКодыСостоянияHTTPКлиентСерверПовтИсп</CommonModule>
