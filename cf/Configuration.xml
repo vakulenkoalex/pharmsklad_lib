@@ -164,6 +164,7 @@
 			<CommonModule>фмПараметрыКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмПараметрыПереопределяемый</CommonModule>
 			<CommonModule>фмПараметрыПовтИсп</CommonModule>
+			<CommonModule>фмПроверкиЗаполнения</CommonModule>
 			<CommonModule>фмРаботаСЗапросами</CommonModule>
 			<CommonModule>фмРегулярныеВыраженияКлиентСервер</CommonModule>
 			<CommonModule>фмСериализацияКлиентСервер</CommonModule>
