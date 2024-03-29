@@ -151,8 +151,9 @@
 			<CommonModule>фмКодыСостоянияHTTPКлиентСерверПовтИсп</CommonModule>
 			<CommonModule>фмКонструкторы</CommonModule>
 			<CommonModule>фмКонструкторыКлиентСервер</CommonModule>
-			<CommonModule>фмЛоггерВызовСервера</CommonModule>
+			<CommonModule>фмЛоггер</CommonModule>
 			<CommonModule>фмЛоггерКлиент</CommonModule>
+			<CommonModule>фмЛоггерКлиентСервер</CommonModule>
 			<CommonModule>фмЛоггерПереопределяемый</CommonModule>
 			<CommonModule>фмЛоггерПовтИсп</CommonModule>
 			<CommonModule>фмОбработкаИсключенийКлиентСервер</CommonModule>

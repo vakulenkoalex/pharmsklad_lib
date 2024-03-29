@@ -28,6 +28,7 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
+			<Form>ЗаписьНаКлиенте</Form>
 			<Command uuid="f78dd659-f0ff-429f-927b-932aa5a26083">
 				<Properties>
 					<Name>ПросмотрФайлаСЛогом</Name>
