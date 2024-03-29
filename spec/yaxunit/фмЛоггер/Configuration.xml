@@ -46,7 +46,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonModule>Логгер</CommonModule>
+			<CommonModule>фмлог_Логгер</CommonModule>
 			<DataProcessor>фмЛоггер</DataProcessor>
 		</ChildObjects>
 	</Configuration>
