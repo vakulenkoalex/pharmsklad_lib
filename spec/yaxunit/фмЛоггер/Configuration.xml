@@ -42,11 +42,13 @@
 			<ConfigurationExtensionCompatibilityMode>Version8_3_12</ConfigurationExtensionCompatibilityMode>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Вакуленко Алексей</Vendor>
-			<Version>0.2</Version>
+			<Version>0.3</Version>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>фмлог_ВызовСервера</CommonModule>
 			<CommonModule>фмлог_Логгер</CommonModule>
+			<CommonModule>фмлог_ЛоггерКлиент</CommonModule>
 			<DataProcessor>фмЛоггер</DataProcessor>
 		</ChildObjects>
 	</Configuration>
