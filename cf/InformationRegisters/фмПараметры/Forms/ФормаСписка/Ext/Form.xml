@@ -12,6 +12,11 @@
 				<CommandName>Form.Command.ПоказатьСправку</CommandName>
 				<ExtendedTooltip name="ФормаПоказатьСправкуРасширеннаяПодсказка" id="29"/>
 			</Button>
+			<Button name="ФормаОбновитьКэшЗначенийПараметров" id="30">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.ОбновитьКэшЗначенийПараметров</CommandName>
+				<ExtendedTooltip name="ФормаОбновитьКэшЗначенийПараметровРасширеннаяПодсказка" id="31"/>
+			</Button>
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
@@ -158,6 +163,21 @@
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
 			<Action>ПоказатьСправку</Action>
+		</Command>
+		<Command name="ОбновитьКэшЗначенийПараметров" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновить кэш значений параметров</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обновить кэш значений параметров</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ОбновитьКэшЗначенийПараметров</Action>
 		</Command>
 	</Commands>
 </Form>
