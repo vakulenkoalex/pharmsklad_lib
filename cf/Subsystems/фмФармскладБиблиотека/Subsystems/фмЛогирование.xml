@@ -20,8 +20,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.фмЛоггер</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмЛоггерПереопределяемый</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмЛоггерПовтИсп</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмЛоггер</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.фмЛоггерКлиент</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
